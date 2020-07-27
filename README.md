@@ -13,4 +13,4 @@ The tool performs conformance tests on :
     ASiC (Associated Signature Container ETSI TS 102 918 and EN 319 162-1&2)
     PAdES (PDF Advanced Electronic Signature ETSI TS 102 778 and EN 319 142-1&2)
 
-To put a question or report an error into the tools, please open an issue on the github associated bug tracker https://github.com/lovele0107/signature-conformance-checker/issues
+To put a question or report an error of the tools, please open an issue on the github associated bug tracker https://github.com/lovele0107/signature-conformance-checker/issues
